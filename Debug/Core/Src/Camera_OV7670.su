@@ -1,0 +1,10 @@
+Camera_OV7670.c:220:6:error_led	8	static
+Camera_OV7670.c:230:6:wrReg	32	static
+Camera_OV7670.c:243:9:rdReg	32	static
+Camera_OV7670.c:252:6:wrSensorRegs8_8	24	static
+Camera_OV7670.c:270:6:setColor	8	static
+Camera_OV7670.c:279:6:setRes	8	static
+Camera_OV7670.c:285:6:camInit	8	static
+Camera_OV7670.c:293:6:captureImg	48	dynamic
+Camera_OV7670.c:357:6:setup	16	static
+Camera_OV7670.c:383:6:loop	8	static
